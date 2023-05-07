@@ -1,6 +1,6 @@
 # cs205-g1-t5
 Uses Mutex and Multithreading, got an A+. To all SMU students who are trying to Google for a game, I don't mind if you use mine, but at the very least just ask me for permission or credit me, yeah?  
-All the code is in V0.1  
+All the code is in Branch V0.1  
 
 
 ChangeLog At A Glance  
