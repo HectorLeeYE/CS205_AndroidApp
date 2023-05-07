@@ -1,4 +1,7 @@
 # cs205-g1-t5
+Uses Mutex and Multithreading, got an A+. To all SMU students who are trying to Google for a game, I don't mind if you use mine, but at the very least just ask me for permission or credit me, yeah?  
+All the code is in V0.1  
+
 
 ChangeLog At A Glance  
 Current Most Updated Branch: V0.1  
@@ -16,4 +19,4 @@ V0.1: 7th Push -> ADDED BOMB IMPLEMENTATION + Mute music not working + Vibration
 (Currently the Bombs fly across the top and bottom of the screen at high speed -> need to edit the code params such that they appear as static objects  
 at random positions on the screen as the game progresses + handle collision event on them)  
 
-Uses Mutex and Multithreading, got an A+. To all SMU students who are trying to Google for a game, I don't mind if you use mine, but at the very least just ask me for permission or credit me, yeah?
+
