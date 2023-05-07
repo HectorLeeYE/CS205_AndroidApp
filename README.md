@@ -14,4 +14,6 @@ V0.1: 5th Push -> Fixed Vibration Bug (Still doesnt vibrate on mine), Brought ve
 V0.1: 6th Push -> Fixed Vibe Bug AGAIN, Added Options page with back to game button & mute music button, except mute music isnt working  
 V0.1: 7th Push -> ADDED BOMB IMPLEMENTATION + Mute music not working + Vibration compiles but doesnt vibrate on mine 
 (Currently the Bombs fly across the top and bottom of the screen at high speed -> need to edit the code params such that they appear as static objects  
-at random positions on the screen as the game progresses + handle collision event on them)
+at random positions on the screen as the game progresses + handle collision event on them)  
+
+Uses Mutex and Multithreading, got an A+. To all SMU students who are trying to Google for a game, I don't mind if you use mine, but at the very least just ask me for permission or credit me, yeah?
