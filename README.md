@@ -1,4 +1,11 @@
-# cs205-g1-t5
+### SMUBird! is a CS205 project for the Module CS205 Operating System Concepts With Android
+**The task was to create an Android app with either Java or Kotlin, using Android Studio Code, and to implement some form of concurrency, along with a few other additional features.**
+
+The 5 **compulsory** features to implement include:
+1) Application contains
+
+
+
 Uses Mutex and Multithreading, got an A+. To all SMU students who are trying to Google for a game, I don't mind if you use mine, but at the very least just ask me for permission or credit me, yeah?  
 All the code is in Branch V0.1  
 
