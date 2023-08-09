@@ -45,7 +45,7 @@ If you've made it this far, thank you for spending time reading through the enti
 I'll like to make it clear that this **was not a solo-effort**. This was a group project, and it was only possible with the combined effort of:
 1. [Sarah Chaing](https://github.com/sarahcwy)
 2. [Ng Jing Jie](https://github.com/SOSpacebar)
-3. [Chua Kim Chun](TOADD)
+3. [Chua Kim Chun](https://github.com/ChalkyTea)
 
 Although you can use the code freely (after all this was an academic project), if you're gonna use it for your own project (Looking at all you SMU people who tried to google for a quick project) or for perhaps some monitization of any sort, could you perhaps [reach out to me first?](https://hectorleeye.com/)
 
