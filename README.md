@@ -1,6 +1,8 @@
-### SMUBird! is a CS205 project for the Module CS205 Operating System Concepts With Android
+# Summary of CS205 Android App (SMUBird!)
+SMUBird! is a CS205 project for the Module CS205 Operating System Concepts With Android
 **The task was to create an Android app with either Java or Kotlin, using Android Studio Code, and to implement some form of concurrency, along with a few other additional features.**
-
+**All the code is in Branch V0.1**
+## Features
 The 5 **compulsory** features to implement include:
 | Requirement  | Explanation | Details | 
 | ------------- | ------------- | -------------- |
@@ -27,15 +29,30 @@ The **Project Highlights** include:
 |---------|-------------|
 | Decoupling of MainThread from mainActivity which allows for thread creation, usage and manipulation. 
 In addition, surfaceCreated() and surfaceDestroyed() methods are explicitly declared in mainActivity | This allows us to use thread-based methods like thread pool if we wanted to and control their creation & termination efficiently to help manage resources. |
-| Implementation of Google Ads allow for revenue & commercialisation | With addition of testAds for this implementation since personal information will be leaked if an actual ad was used, we open our app to real-world monitization since all we have to do is change the key set in the code to allow for real google ads|
-| Possible Integration with Google Console to allow for other services like Leaderboards on Google Console | With addition of Google Ads, we can integrate with the entire Google Console to have access to other APIs etc|
-| Implementation of FPS as a manipulatable variable| By having FPS as a variable, we can increase or decrease it in line with other devices if needed  |
-| Extensible code for particle system | Allows for extension of particle system to further add different effect if needed |
-Uses Mutex and Multithreading, got an A+. To all SMU students who are trying to Google for a game, I don't mind if you use mine, but at the very least just ask me for permission or credit me, yeah?  
-All the code is in Branch V0.1  
+| Implementation of Google Ads allow for revenue & commercialisation | With addition of testAds for this implementation since personal information will be leaked if an actual ad was used, we open our app to real-world monitization since all we have to do is change the key set in the code to allow for real google ads |
+| Possible Integration with Google Console to allow for other services like Leaderboards on Google Console | With addition of Google Ads, we can integrate with the entire Google Console to have access to other APIs etc |
+| Implementation of FPS as a manipulatable variable | By having FPS as a variable, we can increase or decrease it in line with other devices if needed  |
+| Extensible code for particle system | Allows for extension of particle system to further add different effect if needed  |
 
+## Check It Out Yourself!
+For convenience, I placed the [APK On Google Drive. Just download it on an Android Device] (https://drive.google.com/file/d/16Emz4VAOltbsI6nETcCpnegWYfIE-sIw/view?usp=sharing)
+If you don't want to download it, I recorded a brief game-demo. 
 
-ChangeLog At A Glance  
+https://github.com/HectorLeeYE/CS205_AndroidApp/assets/112480186/cd65709a-4b6c-4cae-bf55-1414eca10377
+
+## Acknowledgements and Permissions
+If you've made it this far, thank you for spending time reading through the entire project description. 
+I'll like to make it clear that this **was not a solo-effort**. This was a group project, and it was only possible with the combined effort of:
+1. [Sarah Chaing](https://github.com/sarahcwy)
+2. [Ng Jing Jie](https://github.com/SOSpacebar)
+3. [Chua Kim Chun](TOADD)
+
+Although you can use the code freely (after all this was an academic project), if you're gonna use it for your own project (Looking at all you SMU people who tried to google for a quick project) or for perhaps some monitization of any sort, could you perhaps [reach out to me first?](https://hectorleeye.com/)
+
+Toodles,
+Hector
+
+## ChangeLog At A Glance  
 Current Most Updated Branch: V0.1  
 
 Master: First Push -> Contains entire app with sounds, and some basic threading. Kanban created  
